@@ -18,6 +18,7 @@ const Header = () => {
           <marquee>Registration for The Curve Africa Academy cohort 6.0 is now closed! Join the wait list for Cohort 7!</marquee>
         </div>
       </header>
+      
     </div>
     )
 }
